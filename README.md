@@ -1,1 +1,1 @@
-# Aplicativo desenvolvido para o Instituto de Neurologia de Cutiritiba 
+# Aplicativo desenvolvido para o Instituto de Neurologia de Curitiba 
